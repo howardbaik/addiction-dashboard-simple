@@ -16,4 +16,4 @@
 
 ## Mobile App
 
-<img src="https://github.com/howardbaek/addiction-dashboard-simple/blob/main/img/mobileapp-demo.gif">
+<img src="https://github.com/howardbaek/addiction-dashboard-simple/blob/main/img/mobileapp-demo.gif" width="200" height="450">
