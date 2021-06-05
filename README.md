@@ -23,4 +23,4 @@
 ![](https://github.com/howardbaek/addiction-dashboard-simple/blob/main/img/poster-screenshot.png)
 
 
-##### Contact: howardba@uw.edu
+### Contact: howardba@uw.edu
